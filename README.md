@@ -1,4 +1,4 @@
-# Python-Projects-A
+# Python-Projects
 **BlackJack-Card Game**: This project has the following requirements. To know more about this game, go to the link (https://en.wikipedia.org/wiki/Blackjack)
 
 1. The game needs to have one player versus an automated dealer.
